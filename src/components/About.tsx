@@ -11,7 +11,7 @@ const ABOUT_PARAGRAPH = L(
 
 const QUOTE = L(
   'Try and be nice to people, avoid eating fat, read a good book every now and then, get some walking in, and try and live together in peace and harmony with people of all creeds and nations.',
-  'Provate a essere gentili con il prossimo, evitate di mangiare grassi, leggete ogni tanto un buon libro, fate due passi, e provate a vivere in pace e armonia con persone di ogni credo e nazione.',
+  'Try and be nice to people, avoid eating fat, read a good book every now and then, get some walking in, and try and live together in peace and harmony with people of all creeds and nations.',
 )
 
 const ATTRIBUTION = L(
