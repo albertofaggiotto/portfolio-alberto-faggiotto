@@ -6,7 +6,7 @@ import { L, t, ui } from '@/lib/i18n'
 
 const ABOUT_PARAGRAPH = L(
   "Hi! I'm Alberto, I’m currently enrolled in a postgraduate Master’s in Digital Marketing and Communication at Bologna Business School, which I started after completing my Master’s degree in Semiotics at Alma Mater Studiorum - University of Bologna. My background combines digital communication, editorial writing and semiotics. I've worked across film journalism and festival coverage to brand analysis and content strategy, but the thing I find most compelling is understanding how cultural meanings can take shape in clearer, more accessible forms of communication, especially when they are meant to reach a specific audience. Over time I've developed practical skills across editorial planning and content production, copywriting in different registers and formats, social media management, video editing, and press office work.",
-  'Ciao! Sono Alberto, attualmente frequento un master post-laurea in Digital Marketing and Communication alla Bologna Business School, iniziato dopo aver completato la mia laurea magistrale in Semiotica all’Alma Mater Studiorum - Università di Bologna. Il mio background unisce comunicazione digitale, scrittura editoriale e semiotica. Ho lavorato dal giornalismo cinematografico e dalla copertura di festival fino all’analisi di brand e alla content strategy, ma ciò che trovo più stimolante è capire come i significati culturali possano prendere forma in modi di comunicare più chiari e accessibili, soprattutto quando sono pensati per raggiungere un pubblico specifico. Nel tempo ho sviluppato competenze pratiche su pianificazione editoriale e produzione di contenuti, copywriting in registri e formati diversi, gestione dei social media, video editing e ufficio stampa.',
+  'Ciao! Sono Alberto, attualmente sono iscritto al Master in Digital Marketing and Communication della Bologna Business School, iniziato dopo aver completato la mia laurea magistrale in Semiotica all’Alma Mater Studiorum - Università di Bologna. Il mio background unisce digital communication, scrittura editoriale e analisi semiotica. Ho maturato esperienze tra giornalismo cinematografico, brand analysis e content strategy, lavorando con contenuti scritti, reel e podcast. Nel tempo ho sviluppato competenze pratiche nella pianificazione editoriale e nella produzione di contenuti, nel copywriting applicato a registri e formati diversi, nella gestione dei social media, nel video editing e nell’ufficio stampa.',
 )
 
 const QUOTE = L(
@@ -45,7 +45,7 @@ export default function About() {
             </div>
           </FadeIn>
 
-          <FadeIn delay={150}>
+          <FadeIn delay={150} className="order-first md:order-none">
             <div className="relative w-full max-w-xs md:max-w-sm mx-auto md:mx-0 aspect-[3/4]">
               <Image
                 src="/headshot.jpg"

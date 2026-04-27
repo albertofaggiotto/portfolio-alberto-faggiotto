@@ -160,11 +160,11 @@ export const categories: Category[] = [
     id: 'C',
     label: {
       en: 'Brand Strategy & Communication',
-      it: 'Brand strategy e comunicazione',
+      it: 'Brand analysis e strategy',
     },
     descriptor: {
       en: 'Strategic and analytical work applied to brands, audiences, and market positioning.',
-      it: 'Lavori strategici e analitici applicati a brand, pubblici e posizionamento di mercato.',
+      it: 'Analisi strategiche su brand, audience e posizionamento di mercato',
     },
   },
 ]
@@ -200,7 +200,7 @@ export const projects: Project[] = [
     year: { en: '2025-2026', it: '2025-2026' },
     cardDescription: {
       en: "A master's thesis on how Italian newspaper criticism constructed the authorship of Martin Scorsese and David Lynch for a general audience. Based on a corpus of 262 reviews, the project draws on semiotic analysis, cultural interpretation, and long-form research",
-      it: 'Una tesi magistrale su come la critica cinematografica dei quotidiani italiani abbia costruito l’autorialità di Martin Scorsese e David Lynch per un pubblico generalista. Basato su un corpus di 262 recensioni, il progetto si fonda su analisi semiotica, interpretazione culturale e ricerca approfondita.',
+      it: 'Una tesi magistrale su come la critica cinematografica dei quotidiani italiani abbia costruito l’autorialità di Martin Scorsese e David Lynch per un pubblico generalista. Basato su un corpus di 262 recensioni, il progetto si fonda su analisi semiotica, interpretazione culturale e ricerca accademica.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/alma-mater.png', alt: 'Alma Mater Studiorum – Università di Bologna' },
@@ -219,7 +219,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Qualitative research', 'Critical writing', 'Media analysis', 'Research synthesis'],
-        it: ['Ricerca qualitativa', 'Scrittura critica', 'Analisi dei media', 'Sintesi di ricerca'],
+        it: ['Qualitative research', 'Critical writing', 'Media analysis', 'Research synthesis'],
       },
       media: [
         {
@@ -287,7 +287,7 @@ export const projects: Project[] = [
     year: { en: 'June 2022', it: 'Giugno 2022' },
     cardDescription: {
       en: "An academic essay exploring Timothée Chalamet's public image through the lens of genderless aesthetics. The project uses semiotic analysis and media discourse to examine how fashion and news publications frame changing models of masculinity.",
-      it: 'Un saggio accademico che esplora l’immagine pubblica di Timothée Chalamet attraverso la lente di un’estetica genderless. Il progetto utilizza l’analisi semiotica e il discorso mediatico per esaminare come riviste di moda e attualità inquadrino modelli di mascolinità in trasformazione.',
+      it: 'Un saggio accademico che esplora l’immagine pubblica di Timothée Chalamet attraverso la lente dell’estetica genderless. Il progetto utilizza l’analisi semiotica e mediatica per esaminare come riviste di moda e attualità raccontino modelli di mascolinità in trasformazione.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/alma-mater.png', alt: 'Alma Mater Studiorum – Università di Bologna' },
@@ -306,7 +306,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Media analysis', 'Trend analysis', 'Editorial writing', 'Qualitative research'],
-        it: ['Analisi dei media', 'Analisi dei trend', 'Scrittura editoriale', 'Ricerca qualitativa'],
+        it: ['Media analysis', 'Trend analysis', 'Editorial writing', 'Qualitative research'],
       },
       mediaRail: 'extra-wide',
       media: [
@@ -373,7 +373,7 @@ export const projects: Project[] = [
     slug: 'scream-vi',
     title: {
       en: 'Scream VI and the Final Girl Reversal',
-      it: 'Scream VI e il rovesciamento della final girl',
+      it: 'Scream VI e l’evoluzione della final girl',
     },
     category: 'A',
     categoryLabel: CAT_LABEL_A,
@@ -381,7 +381,7 @@ export const projects: Project[] = [
     year: { en: 'May 2024', it: 'Maggio 2024' },
     cardDescription: {
       en: 'An academic essay on Scream VI and the transformation of the final girl in contemporary horror. The project connects genre theory, spectatorship, and close film analysis to explore how the franchise reworks victimhood and agency.',
-      it: 'Un saggio accademico su Scream VI e sulla trasformazione della final girl nell’horror contemporaneo. Il progetto unisce teoria dei generi, studi sulla spettatorialità e analisi ravvicinata del film per esplorare come la saga rielabori vittimismo e agency.',
+      it: 'Un saggio accademico su Scream VI e sull’evoluzione della final girl nell’horror contemporaneo. Il progetto unisce gender studies, studi sulla spettatorialità e analisi del film per esplorare come la saga rielabori la figura della vittima femminile e la sua agency.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/alma-mater.png', alt: 'Alma Mater Studiorum – Università di Bologna' },
@@ -400,7 +400,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Narrative analysis', 'Critical writing', 'Media analysis', 'Research synthesis'],
-        it: ['Analisi narrativa', 'Scrittura critica', 'Analisi dei media', 'Sintesi di ricerca'],
+        it: ['Narrative analysis', 'Critical writing', 'Media analysis', 'Research synthesis'],
       },
       mediaRail: 'wide',
       media: [
@@ -471,7 +471,7 @@ export const projects: Project[] = [
     year: { en: '2021–2025', it: '2021–2025' },
     cardDescription: {
       en: 'Editorial and festival-related work developed with the online film magazine Frames Cinema, including Venice Film Festival coverage, criticism, and broader cultural content across written, audio and video formats. The project shows my ability to translate cinephile analysis into clear, audience-facing editorial content.',
-      it: 'Lavoro editoriale e festivaliero sviluppato con la rivista online Frames Cinema, comprensivo della copertura della Mostra del Cinema di Venezia, critica e contenuti culturali in formato scritto, audio e video. Il progetto mostra la mia capacità di tradurre l’analisi cinefila in contenuti editoriali chiari e rivolti al pubblico.',
+      it: 'Lavoro editoriale sviluppato con la rivista online Frames Cinema, dove mi sono occupato di critica cinematografica, creazione di contenuti culturali in formato scritto, audio e video e della copertura di festival come la Mostra del Cinema di Venezia.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/frames.png', alt: 'Frames Cinema' },
@@ -490,7 +490,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Editorial planning', 'Content creation', 'Interviewing', 'Copywriting'],
-        it: ['Pianificazione editoriale', 'Creazione di contenuti', 'Interviste', 'Copywriting'],
+        it: ['Editorial planning', 'Content creation', 'Interviewing', 'Copywriting'],
       },
       tools: [
         'Google Workspace',
@@ -593,7 +593,7 @@ export const projects: Project[] = [
     year: { en: '2023', it: '2023' },
     cardDescription: {
       en: 'Communication and content work developed during my curricular internship at Lucca Film Festival. The project combines copywriting, editorial planning, social media, and cultural promotion in a live festival environment.',
-      it: 'Lavoro di comunicazione e contenuti sviluppato durante il mio tirocinio curriculare al Lucca Film Festival. Il progetto unisce copywriting, pianificazione editoriale, social media e promozione culturale in un contesto festivaliero dal vivo.',
+      it: 'Ho svolto il mio tirocinio curriculare al Lucca Film Festival, dove mi sono occupato di copywriting, pianificazione editoriale, social media planning e promozione culturale.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/lucca.png', alt: 'Lucca Film Festival' },
@@ -612,14 +612,14 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Social media management', 'Copywriting', 'Content planning', 'Content creation'],
-        it: ['Gestione social media', 'Copywriting', 'Pianificazione contenuti', 'Creazione di contenuti'],
+        it: ['Social media management', 'Copywriting', 'Content planning', 'Content creation'],
       },
       tools: ['Google Workspace', 'Microsoft Office', 'Canva', 'CapCut', 'Meta Business Suite'],
       mediaRail: 'wide',
       media: [
         {
           type: 'image',
-          src: '/media/lucca/feed.png',
+          src: '/media/Lucca/feed.png',
           alt: {
             en: 'Overview of the Lucca Film Festival Instagram feed during the festival',
             it: 'Panoramica del feed Instagram del Lucca Film Festival durante il festival',
@@ -633,7 +633,7 @@ export const projects: Project[] = [
         },
         {
           type: 'image',
-          src: '/media/lucca/arancia.png',
+          src: '/media/Lucca/arancia.png',
           alt: {
             en: 'Community-building post for the tenth anniversary of Lucca Effetto Cinema',
             it: 'Post di community building per il decennale di Lucca Effetto Cinema',
@@ -647,7 +647,7 @@ export const projects: Project[] = [
         },
         {
           type: 'image',
-          src: '/media/lucca/storia-1.png',
+          src: '/media/Lucca/storia-1.png',
           alt: {
             en: 'Opening festival Instagram story designed as a call to action',
             it: 'Storia Instagram di apertura del festival pensata come call to action',
@@ -660,7 +660,7 @@ export const projects: Project[] = [
         },
         {
           type: 'image',
-          src: '/media/lucca/storia-2.png',
+          src: '/media/Lucca/storia-2.png',
           alt: {
             en: 'Instagram story announcing one of the festival juries',
             it: 'Storia Instagram che annuncia una delle giurie del festival',
@@ -673,7 +673,7 @@ export const projects: Project[] = [
         },
         {
           type: 'video',
-          src: '/media/lucca/reel-mario-martone.mp4',
+          src: '/media/Lucca/Reel-Mario-Martone.mp4',
           caption: {
             en: 'Presentation reel for guest Mario Martone, built around his latest film at the time, Nostalgia.',
             it: 'Reel di presentazione per l’ospite Mario Martone, costruito attorno al suo ultimo film all’epoca, Nostalgia.',
@@ -697,7 +697,7 @@ export const projects: Project[] = [
     year: { en: 'February 2026', it: 'Febbraio 2026' },
     cardDescription: {
       en: "An academic marketing strategy group project focused on Tupperware's relaunch after its recent crisis. The work draws on brand diagnosis, positioning, and competitive analysis to build a more relevant and differentiated strategic direction.",
-      it: 'Un progetto accademico di strategia di marketing svolto in gruppo, dedicato al rilancio di Tupperware dopo la sua recente crisi. Il lavoro si basa su diagnosi di brand, posizionamento e analisi competitiva per costruire una direzione strategica più rilevante e differenziata.',
+      it: 'Un progetto accademico di marketing strategy svolto in gruppo, dedicato al rilancio di Tupperware dopo la sua recente crisi. Il lavoro si basa sull’analisi del brand, sul posizionamento e sull’analisi competitiva per costruire una direzione strategica più rilevante e differenziata.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/bbs.png', alt: 'Bologna Business School' },
@@ -716,7 +716,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Brand strategy', 'Positioning', 'Competitive analysis', 'Strategic planning'],
-        it: ['Brand strategy', 'Posizionamento', 'Analisi competitiva', 'Pianificazione strategica'],
+        it: ['Brand strategy', 'Positioning', 'Competitive analysis', 'Strategic planning'],
       },
       mediaRail: 'extra-wide',
       media: [
@@ -784,7 +784,7 @@ export const projects: Project[] = [
     slug: 'jordan',
     title: {
       en: 'Jordan: Heroic Storytelling and Cultural Positioning',
-      it: 'Jordan: storytelling eroico e posizionamento culturale',
+      it: 'Jordan: storytelling e posizionamento culturale',
     },
     category: 'C',
     categoryLabel: CAT_LABEL_C,
@@ -792,7 +792,7 @@ export const projects: Project[] = [
     year: { en: 'December 2025', it: 'Dicembre 2025' },
     cardDescription: {
       en: 'A strategic brand analysis of Jordan focused on archetype, storytelling, and cultural positioning. The project ties together semiotics and communication strategy to explain how the brand turns performance and aspiration into a coherent identity system.',
-      it: 'Un’analisi strategica del brand Jordan incentrata su archetipo, storytelling e posizionamento culturale. Il progetto unisce semiotica e strategia di comunicazione per spiegare come il brand trasformi performance e aspirazione in un sistema identitario coerente.',
+      it: 'Un’analisi strategica del brand Jordan che coinvolge archetipo, storytelling e posizionamento culturale. Il progetto si avvale dell’analisi semiotica e della strategia di comunicazione per capire come il brand abbia trasformato i concetti di performance e aspirazione in un sistema di valori identitario.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/bbs.png', alt: 'Bologna Business School' },
@@ -811,7 +811,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Brand strategy', 'Brand storytelling', 'Content strategy', 'Competitive analysis'],
-        it: ['Brand strategy', 'Brand storytelling', 'Content strategy', 'Analisi competitiva'],
+        it: ['Brand strategy', 'Brand storytelling', 'Content strategy', 'Competitive analysis'],
       },
       mediaRail: 'extra-wide',
       media: [
@@ -887,7 +887,7 @@ export const projects: Project[] = [
     year: { en: 'December 2025', it: 'Dicembre 2025' },
     cardDescription: {
       en: 'An academic group project developed for the Data Analysis course, based on a survey of student coffee habits and satisfaction at the BBS New Campus. The project translates research findings into recommendations on quality perception, milk variety, presentation, and service.',
-      it: 'Un progetto accademico di gruppo sviluppato per il corso di Data Analysis, basato su un sondaggio sulle abitudini di consumo del caffè e sulla soddisfazione degli studenti del BBS New Campus. Il progetto traduce i risultati della ricerca in raccomandazioni su percezione di qualità, varietà di latte, presentazione e servizio.',
+      it: 'Un progetto accademico di gruppo sviluppato per il corso di Data Analysis, basato su un sondaggio riguardo alle abitudini di consumo di caffè e alla soddisfazione degli studenti del BBS New Campus. Il progetto traduce la ricerca quantitativa in raccomandazioni d’intervento per quanto riguarda qualità percepita, varietà di latte, presentazione e servizio.',
     },
     hasCaseStudy: true,
     logo: { src: '/logos/bbs.png', alt: 'Bologna Business School' },
@@ -906,7 +906,7 @@ export const projects: Project[] = [
       },
       skills: {
         en: ['Survey design', 'Data interpretation', 'Customer satisfaction analysis', 'Problem framing'],
-        it: ['Progettazione di sondaggi', 'Interpretazione dei dati', 'Analisi della customer satisfaction', 'Inquadramento del problema'],
+        it: ['Survey design', 'Data interpretation', 'Customer satisfaction analysis', 'Problem framing'],
       },
       mediaRail: 'extra-wide',
       media: [
