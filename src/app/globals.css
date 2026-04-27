@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #f7f4ef;
+  --color-fg: #1c1917;
+  --color-muted: #6b6560;
+  --color-border: #ddd8d0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+}
+
+::selection {
+  background-color: var(--color-fg);
+  color: var(--color-bg);
+}
